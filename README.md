@@ -54,13 +54,14 @@ npm install
 ### 3. Start development
 
 ```bash
-npm run dev
+npx gulp defaultrtl
 ```
 
 ### 4. Create production build
 
 ```bash
 npm run build
+npm run buildrtl
 ```
 
 The compiled files will be generated inside the `build` directory.
