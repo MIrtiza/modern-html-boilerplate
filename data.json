@@ -1,0 +1,8 @@
+{
+    "dir":"ltr",
+    "baseURLMain":".",
+    "baseURL":".",
+    "baseURLAr":"./ar",
+    "skipText":"Skip",
+    "asset":"./assets"
+}

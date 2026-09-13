@@ -1,0 +1,9 @@
+{
+    "dir": "rtl",
+    "baseURLMain": "..",
+    "baseURL": "./ar",
+    "baseURLAr": "./ar",
+    "asset": "../assets",
+    "skipText": "Skip"
+
+}
